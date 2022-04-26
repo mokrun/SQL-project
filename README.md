@@ -5,7 +5,7 @@ EIE36E Database Systems project:
 Database for School Dependencies
 Author: Artem Makurin
 
-Introduction
+**Introduction**
 This work designs a database that keeps track of school dependencies. It is
 intended to be used on computers of class teachers and higher members of
 school managerial community. It’s based on following assumptions:
@@ -21,27 +21,27 @@ This project does not address the problem of storage and ignores several
 important attributes required in a real system.
 
 
-1. Possible use cases for the model
+**1. Possible use cases for the model**
 • Show every student in the class
 • Return student’s parents’ phone numbers
 • Show which class the person belongs to
 • Show student’s address
 • Show what subjects does a class have
 
-2. Entity relationship diagrams
+**2. Entity relationship diagrams**
 Following section shows proposed structure of the database using different entity
 relationship diagrams. The diagrams were created in the most recent version of
 Lucidcharts.
 Figures 1-3 contain Conceptual, Logical and Physical ERDs.
 
-3. SQL Implementation
+**3. SQL Implementation**
 SQL files 1 through 3 contain: 
 a. Definition of database objects and their constraints
 b. Filling the database with test data
 c. Queries which demonstrate the relational design of the result database
 
 
-4. Conclusion
+**4. Conclusion**
 This project is a basic proposal of a database that can be used in a school
 environment. It defines essential database objects and shows practical use of the
 system with included SQL queries. This project is a vital part of integrating a full

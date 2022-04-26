@@ -1,8 +1,10 @@
 # SQL-project
 Description and implementation of my university SQL project
+
 EIE36E Database Systems project:
 Database for School Dependencies
 Author: Artem Makurin
+
 Introduction
 This work designs a database that keeps track of school dependencies. It is
 intended to be used on computers of class teachers and higher members of
@@ -18,17 +20,6 @@ They only have one address.
 This project does not address the problem of storage and ignores several
 important attributes required in a real system.
 
-Outline
-1. Possible use cases for the model
-2. Entity relationship diagrams
-a. Conceptual ERD
-b. Logical ERD
-c. Physical ERD
-3. SQL Implementation
-a. DDL: Defining the database objects
-b. DML: Inserting the data (examples)
-c. SQL Queries
-4. Conclusion
 
 1. Possible use cases for the model
 • Show every student in the class

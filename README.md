@@ -35,7 +35,7 @@ Lucidcharts.
 Figures 1-3 contain Conceptual, Logical and Physical ERDs.  
 
 **3. SQL Implementation**  
-SQL files 1 through 3 contain: 
+SQL files 1 through 3 contain:  
 a. Definition of database objects and their constraints  
 b. Filling the database with test data  
 c. Queries which demonstrate the relational design of the result database  

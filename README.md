@@ -1,9 +1,9 @@
 # SQL-project
-Description and implementation of my university SQL project
+Description and implementation of my university SQL project  
 
-EIE36E Database Systems project:
-\n Database for School Dependencies
-\n Author: Artem Makurin
+EIE36E Database Systems project:  
+Database for School Dependencies  
+Author: Artem Makurin  
 
 **Introduction**
 \n This work designs a database that keeps track of school dependencies. It is
